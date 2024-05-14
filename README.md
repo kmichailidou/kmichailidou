@@ -29,7 +29,7 @@ Languages and tools:
 
 I'm currently learning many things every day about data analytics and data science.
 
-If you want, you can reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiriaki-michailidou/)
+If you want, you can reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kiriaki-michailidou/)
 
 
 
