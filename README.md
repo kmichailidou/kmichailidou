@@ -40,9 +40,9 @@ If you want, you can reach me on [![LinkedIn](https://img.shields.io/badge/Linke
 
 ### Stats
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=sundaymi&theme=github_dark)](https://github.com/sundaymi)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=kmichailidou&theme=github_dark)](https://github.com/kmichailidou)
 
 ### Most used languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sundaymi&theme=github_dark)](https://github.com/sundaymi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmichailidou&theme=github_dark)](https://github.com/kmichailidou)
 
