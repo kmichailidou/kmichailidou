@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm pasionate with data for about 2 years. I have done some projects in order to expand my skills in data analysis, data cleaning, data modeling, and exploratory analysis using Python, SQL and R language. Additionally, I'm proficient in utilizing statistical techniques to uncover insights and support decision-making. Moreover, I'm detail-oriented and methodical, with a focus on accuracy and data integrity. Lastly, I have strong critical thinking and problem-solving skills, allowing for effective identification of data trends and patterns. Eager to expand my analytical skills and contribute to data-driven strategies as a junior data analyst.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kiriaki-michailidou/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kiriaki-michailidou/) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
