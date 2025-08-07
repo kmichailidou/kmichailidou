@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I've been passionate about data for  2 years. I have done some projects to expand my skills in data analysis, data cleaning, data modeling, and exploratory analysis using Python, SQL, and R language. Additionally, I'm proficient in utilizing statistical techniques to uncover insights and support decision-making. Moreover, I'm detail-oriented and methodical, with a focus on accuracy and data integrity. Lastly, I have strong critical thinking and problem-solving skills, allowing for the effective identification of data trends and patterns. Eager to expand my analytical skills and contribute to data-driven strategies as a junior data analyst.
+![Header](./your-header-image-name.png)
+
+I've been passionate about data for  2 years. I have completed several projects to expand my skills in data analysis, data cleaning, data modeling, and exploratory analysis using Python, SQL, and the R language. Additionally, I'm proficient in utilizing statistical techniques to uncover insights and support decision-making. Moreover, I'm detail-oriented and methodical, with a focus on accuracy and data integrity. Lastly, I possess strong critical thinking and problem-solving skills, enabling me to effectively identify data trends and patterns. Eager to expand my analytical skills and contribute to data-driven strategies as a junior data analyst.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kiriaki-michailidou/) 
